@@ -1,0 +1,164 @@
+.main{
+    text-align: center;
+}
+.head{
+    background-color: #2e219a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.head img{
+    width: 100PX;
+}
+.menu{
+    background-color: #ff0000;
+    /* padding-bottom: 5px; */
+    padding: 10px;
+}
+.menu ul li{
+    display: inline-block;
+    border-right: 1px solid #fff ;
+    padding: 4px;
+}
+.menu ul li:last-child{
+   border: none;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10PX;
+}
+.menu ul li :hover{
+    background-color: #4ab75c;
+    transition: 1s;
+    border-radius: 50%;
+}
+.about{
+    background-image: url(https://i.ibb.co/VJzyjtZ/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg);
+    padding: 100px;
+    color: #fff;
+    margin: -16px;
+    padding-bottom: 150px;
+}
+.about a{
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: green;
+}
+.join{
+    background-image: url(https://i.ibb.co/crGfLmH/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg);
+    background-size: cover;
+    padding: 100px;
+    color: #fff;
+    padding-top: 200px;
+}
+.join h1{
+    background-color: green;
+    margin: 0px -102px 12px -102px;
+    display: block;
+    padding-bottom: 5px;
+}
+.join p{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    margin: 10px;
+}
+.join a{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    margin-top: 40px;
+    text-decoration: none;
+    display: inline-block;
+}
+.team{
+    background-color:#4ab75c;
+    padding-top: 50px;
+}
+.team1{
+    width: 50%;
+    margin: auto;
+
+}
+.team1 img, svg {
+    vertical-align: inherit;
+}
+.team1 .left{
+  display: inline-block;
+  width: 30%;
+  padding-bottom: 50px;
+}
+.team1 .right{
+    display: inline-block;
+    width: 50%;
+    text-align: start;
+    padding: 50px 0px 1px 0px;
+    margin: 40px;
+}
+.team2{
+    width: 50%;
+    margin: auto;
+
+}
+.team2 img, svg {
+    vertical-align: inherit;
+}
+.team2 .right{
+  display: inline-block;
+  width: 30%;
+  padding-bottom: 50px;
+}
+.team2 .right :hover{
+    background-color: #ff0000;
+    border-radius: 10px;
+    transition: 1s;
+}
+.team1 .left :hover{
+    background-color: #ff0000;
+    border-radius: 10px;
+    transition: 1s;
+}
+.team1 .right :hover{
+    background-color: #ff0000;
+    color: #fff;
+    border-radius: 10px;
+    transition: 1s;
+    display: inline-block;
+}
+.team2 .left :hover{
+    background-color: #ff0000;
+    border-radius: 10px;
+    color: #fff;
+    transition: 1s;
+    display: inline-block;
+}
+.team2 .left{
+    display: inline-block;
+    width: 50%;
+    text-align: start;
+    padding: 50px 0px 1px 0px;
+    margin: 40px;
+}
+.bottom{
+    background-color: #2c1a8e;
+    padding: 20px;
+}
+.bottom ul li{
+    display: inline-block;
+    padding: 20px 14px 3px 0px;
+}
+.bottom ul li a{
+    color: #fff;
+    padding: 15px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.bottom ul li :hover{
+    background-color: #4ab75c;
+    transition: 1s;
+    border-radius: 50%;
+}
